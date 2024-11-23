@@ -133,3 +133,8 @@
     border-color: #ffffff00;
     border-image: initial;
 }
+
+.citacao {
+    text-align: end;
+    color: #4e6e58;
+}
