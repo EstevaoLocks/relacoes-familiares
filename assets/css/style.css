@@ -153,3 +153,12 @@
 .text-relatos-sec2 {
     color: #ffffff;
 }
+
+.lista-ol li {
+    margin-top: 1em;
+    margin-left: 2em;
+}
+
+.lista-ol {
+    margin-top: 3em;
+}
